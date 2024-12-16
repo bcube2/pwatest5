@@ -1,0 +1,20 @@
+{
+  "name": "Cube Solver",
+  "short_name": "Cube Solver",
+  "theme_color": "#ffffff",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "solve.html?load_dist_files=1&stl=0&snc=1",
+  "icons": [
+    {
+      "src": "cube192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "cube512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
